@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#7BBDDE&height=200&section=header&text=Hello_SEUNG&fontSize=50&animation=twinkling&textColor=ADD8E6)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![JAVA](https://img.shields.io/badge/MYSQL-%238DB3F9?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트색상})
@@ -19,4 +20,5 @@
 - 📫 How to reach me: ...📫
 - 😄 Pronouns: ... 😄
 - ⚡ Fun fact: ... ⚡
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=#7BBDDE&height=200&section=header&text=Hello_SEUNG&fontSize=50&animation=twinkling&textColor=ADD8E6)
+

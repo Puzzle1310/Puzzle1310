@@ -16,6 +16,8 @@
 -  React.js와 Springboot를 활용한 자바 풀스택 개발자 (8회차)
 - 👯 I’m looking to collaborate on ... 👯
 - 🤔 I’m looking for help with ... 🤔
+- - 😄 Pronouns: ... 😄
+- ⚡ Fun fact: ... ⚡
 - 💬 Ask me about ... 💬
 - 📫 How to reach me: ...📫
 - <a href="https://www.instagram.com/public_int_p/?igsh=aWl2dXU5Mzd2N2Y3">
@@ -24,8 +26,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- 😄 Pronouns: ... 😄
-- ⚡ Fun fact: ... ⚡
 
 - ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#7BBDDE&height=200&section=header&text=Hello_SEUNG&fontSize=50&animation=twinkling&textColor=ADD8E6)

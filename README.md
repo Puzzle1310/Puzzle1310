@@ -20,14 +20,10 @@
 - 📫 How to reach me: ...📫
 - <a href="https://instagram.com/alpox.dev">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/public_int_p/?igsh=aWl2dXU5Mzd2N2Y3"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 - 😄 Pronouns: ... 😄
 - ⚡ Fun fact: ... ⚡
 

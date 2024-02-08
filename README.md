@@ -18,7 +18,7 @@
 - 🤔 I’m looking for help with ... 🤔
 - 💬 Ask me about ... 💬
 - 📫 How to reach me: ...📫
-- <a href="https://instagram.com/alpox.dev">
+- <a href="https://www.instagram.com/public_int_p/?igsh=aWl2dXU5Mzd2N2Y3">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/public_int_p/?igsh=aWl2dXU5Mzd2N2Y3"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
